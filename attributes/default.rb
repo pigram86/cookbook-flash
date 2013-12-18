@@ -16,4 +16,4 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 #
-default[:flash][:url] = "http://download.macromedia.com/get/flashplayer/current/licensing/win/install_flash_player_11_plugin.msi"
+default[:flash][:url] = "https://dl.dropboxusercontent.com/u/36379525/install_flash_player_11_plugin.msi"
